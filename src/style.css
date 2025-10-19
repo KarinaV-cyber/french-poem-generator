@@ -55,8 +55,9 @@ padding:14px 24px;
 
 .poem{
 font-size:16px;
-background-color:#ffedff; ;
-padding: 20px;
+background-color:#ffedff; 
+color: #5a082d;
+padding: 30px;
 line-height: 2;
 border-left: 3px solid #5a082d;
 border-radius: 10px;
